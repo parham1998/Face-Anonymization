@@ -1,15 +1,16 @@
-pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https://download.pytorch.org/whl/cu121
-pip install omegaconf
-pip install ftfy
-pip install regex
-pip install einops
-pip install scipy
-pip install inplace_abn
-pip install opencv-python
-pip install numpy==1.26.4
-pip install pillow==10.2.0
-pip install facenet-pytorch
-pip install pytorch_lightning
-pip install transformers
-pip install open-clip-torch==2.16.0
-pip install flash-attention
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+omegaconf
+regex
+einops
+scipy
+inplace_abn
+opencv-python
+numpy==1.26.4
+pillow==10.2.0
+facenet-pytorch
+pytorch_lightning
+transformers
+open-clip-torch==2.16.0
+flash-attention
