@@ -1,4 +1,4 @@
-# 	Controllable Localized Face Anonymization via Diffusion Inpainting [[ArXiv](http://arxiv.org/abs/2509.14866)] 
+# 	Controllable Localized Face Anonymization via Diffusion Inpainting (ICASSP 2026) [[ArXiv](http://arxiv.org/abs/2509.14866)] 
 
 <p align="center">
  <a href="https://parham1998.github.io/" target="_blank">Ali Salar</a>,
